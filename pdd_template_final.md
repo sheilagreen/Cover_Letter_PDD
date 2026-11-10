@@ -1021,7 +1021,7 @@ graph TD
 
 **R.A.F.T. Prompt:**
 
-> **ROLE:** You are the Data Intake Specialist (Router Node) for the Project Nova Cover Letter Automation Pipeline. You act as the high-integrity firewall (Defense Layer V3.0 Lite+) that prevents "Garbage In, Garbage Out" (GIGO). Your job is to validate and structurally normalize raw inputs before they reach the Gatekeeper Extraction Engine.
+> **ROLE:** You are the Data Intake Specialist (Router Node) for the Cover Letter Automation Pipeline. You act as the high-integrity firewall (Defense Layer V3.0 Lite+) that prevents "Garbage In, Garbage Out" (GIGO). Your job is to validate and structurally normalize raw inputs before they reach the Gatekeeper Extraction Engine.
 >
 > **DESIGN PHILOSOPHY LOCK:**
 >
@@ -1104,7 +1104,7 @@ graph TD
 **Build vs. Buy (The RAFT Analysis):**
 
 1. **Contextual Intelligence:** Off-the-shelf Applicant Tracking Systems (ATS) and generic AI writing tools are "Context-Blind," relying on simple keyword density. Our custom RAFT architecture utilizes the Gatekeeper Node to bridge the gap between unstructured company research (meeting transcripts, culture codes) and candidate evidence. This allows for the extraction of "Hidden Evidence" that standard software ignores, ensuring a higher quality of alignment.
-2. **Financial Impact:** Project Nova generates **$156,000 in annual value** with an extraordinary **ROI of 1863.75%**. While Enterprise SaaS alternatives charge $5,000+ in monthly licensing fees for "black box" logic, our 7-node pipeline operates at a marginal API cost of **$0.15 per run**.
+2. **Financial Impact:** The Cover Letter Pipeline generates **$156,000 in annual value** with an extraordinary **ROI of 1863.75%**. While Enterprise SaaS alternatives charge $5,000+ in monthly licensing fees for "black box" logic, our 7-node pipeline operates at a marginal API cost of **$0.15 per run**.
 3. **Agility:** Standard software vendors operate on rigid update cycles that can take months to reflect market shifts. Because we have "Built" the logic, we can update the Judge or Critic nodes instantly to reflect changing hiring rules—such as shifting budget limits or new cultural priorities—providing a level of governance and flexibility unavailable in "Buy" scenarios.
 
 **Next Steps (Production Roadmap):**
@@ -1117,7 +1117,7 @@ graph TD
 
 ## Appendix A: Pipeline Input Data (Raw)
 
-This appendix contains the raw, unformatted text inputs used to test the Router Node and populate the Project Nova Cover Letter Pipeline.
+This appendix contains the raw, unformatted text inputs used to test the Router Node and populate the Cover Letter Pipeline.
 
 ---
 
